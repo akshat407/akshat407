@@ -1,11 +1,11 @@
-नमस्ते (Namaste), I'm [Varsa Gupta](https://www.linkedin.com/in/varsa-gupta-027104265/), currently pursuing my Bachelor's degree in Information Science and Engineering at BMS College of Engineering, Bangalore. In my third year of engineering, I've embarked on an exhilarating journey into the realms of data science and machine learning.
+Hello(नमस्ते)(ನಮಸ್ಕಾರ), I'm [Akshat Srivastava](https://www.linkedin.com/in/akshat-srivastava-a50285202/), currently pursuing my Bachelor's degree in Electronics and Communication at BMS College of Engineering, Bangalore. In my final year of engineering, I've embarked on an exhilarating journey into the realms of Mobile App Development and Web Development.
 
-My fascination with these fields stems from my experiences as a self-taught frontend developer and backend developer. As I delve deeper into data-driven projects, such as the ones I've previously shared, I am increasingly drawn to the potential of leveraging data to derive actionable insights and build predictive models.
+My fascination with these fields stems from my experiences as a self-taught frontend developer and backend developer. As I delve deeper into data-driven projects, such as the ones I've previously shared, I am increasingly drawn to the potential of leveraging data to derive actionable insights and build apps and websites.
 
-Looking ahead, my goal is to become a Data Scientist, where I can apply my skills to tackle real-world challenges and drive innovation. I envision contributing to open-source projects in the data science community, sharing knowledge, collaborating with peers, and contributing to meaningful advancements in the field while fostering a culture of collective learning and growth.
+Looking forward, my aim is to become a Software Developer, leveraging my skills to address real-world problems and spark innovation. I plan to engage actively in the mobile app development community through open-source projects, sharing knowledge, collaborating with peers, and driving significant advancements. My goal is to cultivate a culture of collective learning and growth within the industry.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" width="500" height="320" />
 
   
 - My Resume https://drive.google.com/file/d/1f81LEY4sgdBHHQT6MaQ5CicUJExQ2sW3/view?usp=sharing
