@@ -6,12 +6,14 @@ Looking forward, my aim is to become a Software Developer, leveraging my skills 
 
 
 
-  <iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="460" height="269" />
+<p></p>
+
 
   
-- My Resume https://drive.google.com/file/d/1f81LEY4sgdBHHQT6MaQ5CicUJExQ2sW3/view?usp=sharing
+- My Resume https://drive.google.com/file/d/16HOY_z-LJaD4UF0Lfn0dntM7ydhsrNIJ/view?usp=sharing
   
-- 💼 any freelance work? do reach, [email](varsagupta07@gmail.com)
+- 💼 any freelance work? do reach, [email](srivastava.akshat407@gmail.com)
   
 - 💬 ask me about anything, i am happy to help;
 
