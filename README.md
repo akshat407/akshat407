@@ -5,7 +5,8 @@ My fascination with these fields stems from my experiences as a self-taught fron
 Looking forward, my aim is to become a Software Developer, leveraging my skills to address real-world problems and spark innovation. I plan to engage actively in the mobile app development community through open-source projects, sharing knowledge, collaborating with peers, and driving significant advancements. My goal is to cultivate a culture of collective learning and growth within the industry.
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" width="500" height="320" />
+
+  <iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
 
   
 - My Resume https://drive.google.com/file/d/1f81LEY4sgdBHHQT6MaQ5CicUJExQ2sW3/view?usp=sharing
