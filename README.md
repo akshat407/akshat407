@@ -1,4 +1,4 @@
-Hello(नमस्ते)(ನಮಸ್ಕಾರ), I'm [Akshat Srivastava](https://www.linkedin.com/in/akshat-srivastava-a50285202/), currently pursuing my Bachelor's degree in Electronics and Communication at BMS College of Engineering, Bangalore. In my final year of engineering, I've embarked on an exhilarating journey into the realms of Mobile App Development and Web Development.
+Hello नमस्ते  ನಮಸ್ಕಾರ, I'm [Akshat Srivastava](https://www.linkedin.com/in/akshat-srivastava-a50285202/), currently pursuing my Bachelor's degree in Electronics and Communication at BMS College of Engineering, Bangalore. In my final year of engineering, I've embarked on an exhilarating journey into the realms of Mobile App Development and Web Development.
 
 My fascination with these fields stems from my experiences as a self-taught frontend developer and backend developer. As I delve deeper into data-driven projects, such as the ones I've previously shared, I am increasingly drawn to the potential of leveraging data to derive actionable insights and build apps and websites.
 
@@ -6,7 +6,7 @@ Looking forward, my aim is to become a Software Developer, leveraging my skills 
 
 
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="460" height="269" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="460" height="260" />
 <p></p>
 
 
