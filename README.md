@@ -11,7 +11,7 @@ Looking forward, my aim is to become a Software Developer, leveraging my skills 
 
 
   
-- My Resume https://drive.google.com/file/d/16HOY_z-LJaD4UF0Lfn0dntM7ydhsrNIJ/view?usp=sharing
+- My Resume https://drive.google.com/file/d/1pyITBWg737RTageOO4Fkzw5wu9ddGzMU/view?usp=sharing
   
 - 💼 any freelance work? do reach, [email](srivastava.akshat407@gmail.com)
   
